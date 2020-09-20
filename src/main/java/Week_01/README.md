@@ -1,5 +1,15 @@
 学习笔记
 
+总结：
+可以3个步骤实现精通任何一个领域：
+check it up 切碎知识点
+Deliberate Practicing 刻意练习
+Feedback 反馈
+
+视频倍速播放，难点要反复观看；
+不要死磕；
+五毒神掌，过遍数；
+
 本周作业
 简单：
 用 add first 或 add last 这套新的 API 改写 Deque 的代码
