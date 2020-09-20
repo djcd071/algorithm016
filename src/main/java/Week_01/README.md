@@ -10,6 +10,8 @@ Feedback 反馈
 不要死磕；
 五毒神掌，过遍数；
 
+思维脑图：https://github.com/djcd071/algorithm016/blob/master/src/main/java/Week_01/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E8%84%91%E5%9B%BE.jpg
+
 本周作业
 简单：
 用 add first 或 add last 这套新的 API 改写 Deque 的代码
